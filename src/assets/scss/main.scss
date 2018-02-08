@@ -1,0 +1,10 @@
+@import "./_reset";
+@import '~vue-tkui/src/sass/all';
+.tkui-button.block{
+  margin-left:0;
+  margin-right:0;
+}
+html,
+body{
+  overflow: hidden;
+}
